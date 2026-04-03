@@ -43,7 +43,7 @@ body {
     align-items: center;
 }
 
-.Home, .Projects, .Chess {
+.Home, .Projects, .About, .Chess {
     width: 100%;
     flex-grow: 1;
     padding: 1rem;
